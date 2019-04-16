@@ -35,17 +35,47 @@
 - intra-mart AccelPlatform
 - Oracle EBS
 
+### ツール・OS
+
+#### 業務内
+
+- Subversion
+- Redmine
+- Oracle SQL Developer
+- SI ObjectBrowser
+- HP-UX
+- RedHat Linux
+- Windows Server 2012 R2
+- Eclipse
+- eBuilder
+- Atom
+- Visual Studio Code
+- Vagrant
+- TeraTerm
+
+#### 業務外
+
+- GitHub
+- Todoist
+- WordPress
+  - ブログに使用中
+  - 子テーマの作成、プラグインを使った高速化なども
+- XAMPP
+- Slack
+  - オンラインコミュニティの連絡手段として利用
+- Discord
+  - オンラインコミュニティの連絡手段として利用
+- ConoHa VPS
+  - Node.jsが動くサーバーの構築に利用
+
 ### その他
 
 - 経験のある開発手法はウォーターフォール型
-- Subversionを使ったバージョン管理の経験あり
-- IDEはEclipseとEclipseベースのeBuilderの利用経験あり
-- 開発にはAtomかVisual Studio Codeを利用
 
 ## 強み
 
 - 必要だと思ったら、社内での実績に関係なく、新しいものを拾ってくる程度の能力
-- 10年単位でサイトの運用をする粘り強さ
+- 17年ぐらいサイトを運営し続けられる粘り強さ
 
 ## やったことはないが興味があるもの
 

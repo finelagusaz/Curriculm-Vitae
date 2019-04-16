@@ -45,12 +45,15 @@
 - SI ObjectBrowser
 - HP-UX
 - RedHat Linux
+  - バージョンは失念
 - Windows Server 2012 R2
+- JP1
 - Eclipse
 - eBuilder
 - Atom
 - Visual Studio Code
 - Vagrant
+- VirtualBox
 - TeraTerm
 
 #### 業務外
@@ -67,6 +70,8 @@
   - オンラインコミュニティの連絡手段として利用
 - ConoHa VPS
   - Node.jsが動くサーバーの構築に利用
+- esa.io
+- MkDocs
 
 ### その他
 

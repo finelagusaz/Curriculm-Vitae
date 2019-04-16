@@ -17,10 +17,12 @@
 - CSS
 - PL/SQL
 - SQL
+  - Oracle Database 10g
+  - PostgreSQL 9.4
 - Java
   - バージョン失念。かなり古かった記憶
 - シェルスクリプト
-- Ruby
+- Ruby 2.x
   - 独学、実務経験なし
 
 ### ライブラリ
@@ -35,8 +37,10 @@
 
 ### その他
 
-- 経験のある手法はウォーターフォール型
+- 経験のある開発手法はウォーターフォール型
 - Subversionを使ったバージョン管理の経験あり
+- IDEはEclipseとEclipseベースのeBuilderの利用経験あり
+- 開発にはAtomかVisual Studio Codeを利用
 
 ## 強み
 

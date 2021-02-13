@@ -18,12 +18,13 @@
 - PL/SQL
 - SQL
   - Oracle Database 10g
-  - PostgreSQL 9.4
+  - PostgreSQL 9.6
 - Java
   - バージョン失念。かなり古かった記憶
+- Ruby 2.5.x
+- Ruby on Rails 4.2
+- Python
 - シェルスクリプト
-- Ruby 2.x
-  - 独学、実務経験なし
 
 ### ライブラリ
 
@@ -33,7 +34,7 @@
 
 - intra-mart v6
 - intra-mart AccelPlatform
-- Oracle EBS
+- Oracle E-Business Suite
 
 ### ツール・OS
 
@@ -55,6 +56,8 @@
 - Vagrant
 - VirtualBox
 - TeraTerm
+- GitHub
+- Docker
 
 #### 業務外
 
@@ -62,7 +65,6 @@
 - Todoist
 - WordPress
   - ブログに使用中
-  - 子テーマの作成、プラグインを使った高速化なども
 - XAMPP
 - Slack
   - オンラインコミュニティの連絡手段として利用

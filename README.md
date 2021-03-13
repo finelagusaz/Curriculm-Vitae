@@ -44,8 +44,6 @@
 
 ### ツール・OS
 
-#### 業務内
-
 - Subversion
 - Redmine
 - Oracle SQL Developer
@@ -64,21 +62,6 @@
 - TeraTerm
 - GitHub
 - Docker
-
-#### 業務外
-
-- Todoist
-- WordPress
-  - ブログに使用中
-- XAMPP
-- Slack
-  - オンラインコミュニティの連絡手段として利用
-- Discord
-  - オンラインコミュニティの連絡手段として利用
-- ConoHa VPS
-  - Node.jsが動くサーバーの構築に利用
-- esa.io
-- MkDocs
 
 ## 強み
 

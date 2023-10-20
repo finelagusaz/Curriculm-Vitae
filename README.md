@@ -5,22 +5,21 @@
 | key     | value                                                        |
 |---------|--------------------------------------------------------------|
 | blog    | [wired raven : Automatic Wing](https://blog.electricsea.io/) |
-| Twitter | [@sesuna](https://twitter.com/sesuna/)                       |
+| X | [@sesuna](https://twitter.com/sesuna/)                       |
 | mail    | [algiz.rune@gmail.com](algiz.rune@gmail.com)                 |
 
 ## スキル
 
 ### 言語
 
+- Ruby 2.5.x / 2.6
+- Python
 - JavaScript
+- TypeScript
 - PL/SQL
 - SQL
   - Oracle Database 10g
   - PostgreSQL 9.6 / 12
-- Java
-  - バージョン失念。かなり古かった記憶
-- Ruby 2.5.x / 2.6
-- Python
 
 ### ライブラリ
 
@@ -66,7 +65,6 @@
 
 ## やったことはないが興味があるもの
 
-- Vue.jsを駆使したフロンドエンドの開発
 - Selenium等を使ったテストの自動化
 - DevOps
 - 情報の鮮度と正確さが保たれたドキュメントの作成

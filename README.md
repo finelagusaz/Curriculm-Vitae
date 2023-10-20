@@ -12,19 +12,15 @@
 
 ### 言語
 
-- HTML5
 - JavaScript
-- CSS
 - PL/SQL
 - SQL
   - Oracle Database 10g
-  - PostgreSQL 9.6
+  - PostgreSQL 9.6 / 12
 - Java
   - バージョン失念。かなり古かった記憶
-- Ruby 2.5.x
-- Ruby on Rails 4.2
+- Ruby 2.5.x / 2.6
 - Python
-- シェルスクリプト
 
 ### ライブラリ
 

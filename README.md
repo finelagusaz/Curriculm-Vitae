@@ -24,64 +24,47 @@
 
 ## スキル
 
-### 言語
+### 1. 技術スキル
+- Ruby / Ruby on Rails
+- Python / Django
+- JavaScript / TypeScript / React
+- SQL（Oracle / PostgreSQL）
+- Salesforce / CRM Analytics
+- API / バッチ処理 / ETL 基礎
 
-- Ruby 2.5.x / 2.6
-- Python
-- JavaScript
-- TypeScript
-- PL/SQL
-- SQL
-  - Oracle Database 10g
-  - PostgreSQL 9.6 / 12
+### 2. データ・CRM領域
 
-### ライブラリ
+- CRM Analytics（ダッシュボード設計・データフロー構築）
+- Salesforce 標準機能の要件整理・活用設計
+- データモデル設計（Salesforce / 業務システム問わず）
+- BIレポート設計、運用改善
+- 既存データの調査・品質確認
 
-- jQuery
-- React.js
+### 3. 組織・プロセス設計
 
-### プラットフォーム
+- スクラム運用 / スクラムマスター
+- 開発プロセス改善（環境構築手順・リリースフロー）
+- 障害除去・ファシリテーション
+- ナレッジ整理・ドキュメント体系化
+- 属人化領域の分解 / 再現化
+- チームの心理的安全性向上施策
 
-- intra-mart v6
-- intra-mart AccelPlatform
-- Oracle E-Business Suite
-- Salesforce
+### 4. 文脈理解・抽象化スキル
 
-### フレームワーク
+- 要件の背景整理（Why／運用文脈／業務制約の抽出）
+- レガシーシステムの構造把握（考古学的アプローチ）
+- 混乱した情報の統合・構造化
+- 技術・組織・業務を横断した抽象化
+- 初見領域の立ち上げ・曖昧な課題の言語化
 
-- Django
-- Ruby on Rails
+### 5. ツール
 
-### ツール・OS
-
-- Subversion
-- Redmine
-- Oracle SQL Developer
-- SI ObjectBrowser
-- HP-UX
-- RedHat Linux
-  - バージョンは失念
-- Windows Server 2012 R2
-- JP1
-- Eclipse
-- eBuilder
-- Atom
-- Visual Studio Code
-- Vagrant
-- VirtualBox
-- TeraTerm
-- GitHub
-- Git
-- Docker
-- Confluence
-- Jira
-
-### 組織・プロセス
-- スクラム運用 / スクラムマスター  
-- 開発プロセス改善  
-- ナレッジ整備・ドキュメント体系化  
-- 若手育成・オンボーディング支援  
-- 要件・文脈整理（コンテクスト抽出）
+- Git / GitHub  
+- Docker  
+- VS Code  
+- Confluence / Jira / Redmine  
+- Oracle SQL Developer  
+- Salesforce 開発者ツール一式
 
 ## 職務経歴
 
